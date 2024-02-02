@@ -1,2 +1,2 @@
 # deleca2flappybird
-Code used in my Research Paper, RL flappy bird.
+Code used in my Research Paper, Q-Learning flappy bird.
